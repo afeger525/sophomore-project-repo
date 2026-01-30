@@ -1,0 +1,1 @@
+#this is where i'm gonna write these stupid ass functions
