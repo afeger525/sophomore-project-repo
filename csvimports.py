@@ -4,6 +4,8 @@ def turn_into_csv():
     recipe_csvtxt = open("recipe_csv.txt")
     recipe_tsv = open("recipes.tsv", 'a')
 
+    title = "Craftable\tCount\tRecipe\n"
+    recipe_tsv.write(title)
     random_count = 0
     line_num = 1
 
