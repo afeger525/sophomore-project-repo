@@ -1,0 +1,706 @@
+minecraft:acacia_boat	1	5 minecraft:acacia_planks
+minecraft:acacia_button	1	1 minecraft:acacia_planks
+minecraft:acacia_chest_boat	1	1 minecraft:chest, 1 minecraft:acacia_boat
+minecraft:acacia_door	3	6 minecraft:acacia_planks
+minecraft:acacia_fence	3	4 minecraft:acacia_planks, 2 minecraft:stick
+minecraft:acacia_fence_gate	1	4 minecraft:stick, 2 minecraft:acacia_planks
+minecraft:acacia_hanging_sign	6	2 minecraft:chain, 6 minecraft:stripped_acacia_log
+minecraft:acacia_planks	4	1 minecraft:acacia_log
+minecraft:acacia_pressure_plate	1	2 minecraft:acacia_planks
+minecraft:acacia_sign	3	6 minecraft:acacia_planks, 1 minecraft:stick
+minecraft:acacia_slab	6	3 minecraft:acacia_planks
+minecraft:acacia_stairs	4	6 minecraft:acacia_planks
+minecraft:acacia_trapdoor	2	6 minecraft:acacia_planks
+minecraft:acacia_wood	3	4 minecraft:acacia_log
+minecraft:activator_rail	6	6 minecraft:iron_ingot, 2 minecraft:stick, 1 minecraft:redstone_torch
+minecraft:amethyst_block	1	4 minecraft:amethyst_shard
+minecraft:andesite_slab	8	4 minecraft:andesite
+minecraft:andesite_stairs	5	7 minecraft:andesite
+minecraft:andesite_wall	7	7 minecraft:andesite
+minecraft:anvil	1	3 minecraft:iron_block, 4 minecraft:iron_ingot
+minecraft:armor_stand	1	6 minecraft:stick, 1 minecraft:smooth_stone_slab
+minecraft:arrow	4	1 minecraft:flint, 1 minecraft:stick, 1 minecraft:feather
+minecraft:bamboo_block	1	9 minecraft:bamboo
+minecraft:bamboo_button	1	1 minecraft:bamboo_planks
+minecraft:bamboo_chest_raft	1	1 minecraft:chest, 1 minecraft:bamboo_raft
+minecraft:bamboo_door	3	6 minecraft:bamboo_planks
+minecraft:bamboo_fence	3	4 minecraft:bamboo_planks, 2 minecraft:stick
+minecraft:bamboo_fence_gate	1	4 minecraft:stick, 2 minecraft:bamboo_planks
+minecraft:bamboo_hanging_sign	6	2 minecraft:chain, 6 minecraft:stripped_bamboo_block
+minecraft:bamboo_mosaic	1	2 minecraft:bamboo_slab
+minecraft:bamboo_mosaic_slab	6	3 minecraft:bamboo_mosaic
+minecraft:bamboo_mosaic_stairs	4	6 minecraft:bamboo_mosaic
+minecraft:bamboo_planks	2	1 minecraft:bamboo_block, 1 minecraft:stripped_bamboo_block
+minecraft:bamboo_pressure_plate	1	2 minecraft:bamboo_planks
+minecraft:bamboo_raft	1	5 minecraft:bamboo_planks
+minecraft:bamboo_sign	3	6 minecraft:bamboo_planks, 1 minecraft:stick
+minecraft:bamboo_slab	6	3 minecraft:bamboo_planks
+minecraft:bamboo_stairs	4	6 minecraft:bamboo_planks
+minecraft:bamboo_trapdoor	2	6 minecraft:bamboo_planks
+minecraft:barrel	1	6 minecraft:oak_planks, 2 minecraft:oak_slab
+minecraft:beacon	1	5 minecraft:glass, 1 minecraft:nether_star, 3 minecraft:obsidian
+minecraft:beehive	1	6 minecraft:oak_planks, 3 minecraft:honeycomb
+minecraft:beetroot_soup	1	1 minecraft:bowl, 6 minecraft:beetroot
+minecraft:birch_boat	1	5 minecraft:birch_planks
+minecraft:birch_button	1	1 minecraft:birch_planks
+minecraft:birch_chest_boat	1	1 minecraft:chest, 1 minecraft:birch_boat
+minecraft:birch_door	3	6 minecraft:birch_planks
+minecraft:birch_fence	3	4 minecraft:birch_planks, 2 minecraft:stick
+minecraft:birch_fence_gate	1	4 minecraft:stick, 2 minecraft:birch_planks
+minecraft:birch_hanging_sign	6	2 minecraft:chain, 6 minecraft:stripped_birch_log
+minecraft:birch_planks	4	1 minecraft:birch_log
+minecraft:birch_pressure_plate	1	2 minecraft:birch_planks
+minecraft:birch_sign	3	6 minecraft:birch_planks, 1 minecraft:stick
+minecraft:birch_slab	6	3 minecraft:birch_planks
+minecraft:birch_stairs	4	6 minecraft:birch_planks
+minecraft:birch_trapdoor	2	6 minecraft:birch_planks
+minecraft:birch_wood	3	4 minecraft:birch_log
+minecraft:black_banner	1	6 minecraft:black_wool, 1 minecraft:stick
+minecraft:black_bed	1	3 minecraft:black_wool, 3 minecraft:oak_planks
+minecraft:black_candle	1	1 minecraft:candle, 1 minecraft:black_dye
+minecraft:black_carpet	3	2 minecraft:black_wool
+minecraft:black_concrete_powder	8	1 minecraft:black_dye, 4 minecraft:sand, 4 minecraft:gravel
+minecraft:black_dye	1	1 minecraft:ink_sac
+minecraft:black_stained_glass	8	8 minecraft:glass, 1 minecraft:black_dye
+minecraft:black_stained_glass_pane	16	6 minecraft:black_stained_glass
+minecraft:black_terracotta	8	8 minecraft:terracotta, 1 minecraft:black_dye
+minecraft:black_wool	1	1 minecraft:black_dye, 1 minecraft:white_wool
+minecraft:blackstone_slab	8	4 minecraft:blackstone
+minecraft:blackstone_stairs	5	7 minecraft:blackstone
+minecraft:blackstone_wall	7	7 minecraft:blackstone
+minecraft:blast_furnace	1	5 minecraft:iron_ingot, 1 minecraft:furnace, 3 minecraft:smooth_stone
+minecraft:blaze_powder	2	1 minecraft:blaze_rod
+minecraft:blue_banner	1	6 minecraft:blue_wool, 1 minecraft:stick
+minecraft:blue_bed	1	3 minecraft:blue_wool, 3 minecraft:oak_planks
+minecraft:blue_candle	1	1 minecraft:candle, 1 minecraft:blue_dye
+minecraft:blue_carpet	3	2 minecraft:blue_wool
+minecraft:blue_concrete_powder	8	1 minecraft:blue_dye, 4 minecraft:sand, 4 minecraft:gravel
+minecraft:blue_dye	1	1 minecraft:lapis_lazuli
+minecraft:blue_ice	1	9 minecraft:packed_ice
+minecraft:blue_stained_glass	8	8 minecraft:glass, 1 minecraft:blue_dye
+minecraft:blue_stained_glass_pane	16	6 minecraft:blue_stained_glass
+minecraft:blue_terracotta	8	8 minecraft:terracotta, 1 minecraft:blue_dye
+minecraft:blue_wool	1	1 minecraft:blue_dye, 1 minecraft:white_wool
+minecraft:bone_block	1	9 minecraft:bone_meal
+minecraft:bone_meal	3	1 minecraft:bone
+minecraft:book	1	3 minecraft:paper, 1 minecraft:leather
+minecraft:bookshelf	1	6 minecraft:oak_planks, 3 minecraft:book
+minecraft:bow	1	3 minecraft:stick, 3 minecraft:string
+minecraft:bowl	4	3 minecraft:oak_planks
+minecraft:bread	1	3 minecraft:wheat
+minecraft:brewing_stand	1	1 minecraft:blaze_rod, 3 minecraft:cobblestone
+minecraft:brick_slab	2	1 minecraft:bricks
+minecraft:brick_stairs	1	1 minecraft:bricks
+minecraft:brick_wall	1	1 minecraft:bricks
+minecraft:bricks	1	4 minecraft:brick
+minecraft:brown_banner	1	6 minecraft:brown_wool, 1 minecraft:stick
+minecraft:brown_bed	1	3 minecraft:brown_wool, 3 minecraft:oak_planks
+minecraft:brown_candle	1	1 minecraft:candle, 1 minecraft:brown_dye
+minecraft:brown_carpet	3	2 minecraft:brown_wool
+minecraft:brown_concrete_powder	8	1 minecraft:brown_dye, 4 minecraft:sand, 4 minecraft:gravel
+minecraft:brown_dye	1	1 minecraft:cocoa_beans
+minecraft:brown_stained_glass	8	8 minecraft:glass, 1 minecraft:brown_dye
+minecraft:brown_stained_glass_pane	16	6 minecraft:brown_stained_glass
+minecraft:brown_terracotta	8	8 minecraft:terracotta, 1 minecraft:brown_dye
+minecraft:brown_wool	1	1 minecraft:brown_dye, 1 minecraft:white_wool
+minecraft:brush	1	1 minecraft:feather, 1 minecraft:copper_ingot, 1 minecraft:stick
+minecraft:bucket	1	3 minecraft:iron_ingot
+minecraft:cake	1	3 minecraft:milk_bucket, 2 minecraft:sugar, 1 minecraft:egg, 3 minecraft:wheat
+minecraft:calibrated_sculk_sensor	1	3 minecraft:amethyst_shard, 1 minecraft:sculk_sensor
+minecraft:campfire	1	3 minecraft:stick, 1 minecraft:coal, 3 minecraft:oak_log
+minecraft:candle	1	1 minecraft:string, 1 minecraft:honeycomb
+minecraft:carrot_on_a_stick	1	1 minecraft:fishing_rod, 1 minecraft:carrot
+minecraft:cartography_table	1	2 minecraft:paper, 4 minecraft:oak_planks
+minecraft:cauldron	1	7 minecraft:iron_ingot
+minecraft:chain	1	2 minecraft:iron_nugget, 1 minecraft:iron_ingot
+minecraft:cherry_boat	1	5 minecraft:cherry_planks
+minecraft:cherry_button	1	1 minecraft:cherry_planks
+minecraft:cherry_chest_boat	1	1 minecraft:chest, 1 minecraft:cherry_boat
+minecraft:cherry_door	3	6 minecraft:cherry_planks
+minecraft:cherry_fence	3	4 minecraft:cherry_planks, 2 minecraft:stick
+minecraft:cherry_fence_gate	1	4 minecraft:stick, 2 minecraft:cherry_planks
+minecraft:cherry_hanging_sign	6	2 minecraft:chain, 6 minecraft:stripped_cherry_log
+minecraft:cherry_planks	4	1 minecraft:cherry_log
+minecraft:cherry_pressure_plate	1	2 minecraft:cherry_planks
+minecraft:cherry_sign	3	6 minecraft:cherry_planks, 1 minecraft:stick
+minecraft:cherry_slab	6	3 minecraft:cherry_planks
+minecraft:cherry_stairs	4	6 minecraft:cherry_planks
+minecraft:cherry_trapdoor	2	6 minecraft:cherry_planks
+minecraft:cherry_wood	3	4 minecraft:cherry_log
+minecraft:chest	1	8 minecraft:oak_planks
+minecraft:chest_minecart	1	1 minecraft:chest, 1 minecraft:minecart
+minecraft:chiseled_bookshelf	1	6 minecraft:oak_planks, 3 minecraft:oak_slab
+minecraft:chiseled_deepslate	1	1 minecraft:cobbled_deepslate
+minecraft:chiseled_nether_bricks	1	1 minecraft:nether_bricks
+minecraft:chiseled_polished_blackstone	1	1 minecraft:polished_blackstone
+minecraft:chiseled_quartz_block	1	1 minecraft:quartz_block
+minecraft:chiseled_red_sandstone	1	1 minecraft:red_sandstone
+minecraft:chiseled_sandstone	1	1 minecraft:sandstone
+minecraft:chiseled_stone_bricks	1	1 minecraft:stone_bricks
+minecraft:clay	1	4 minecraft:clay_ball
+minecraft:clock	1	4 minecraft:gold_ingot, 1 minecraft:redstone
+minecraft:coal_block	1	9 minecraft:coal
+minecraft:coarse_dirt	4	2 minecraft:dirt, 2 minecraft:gravel
+minecraft:cobbled_deepslate_slab	2	1 minecraft:cobbled_deepslate
+minecraft:cobbled_deepslate_stairs	1	1 minecraft:cobbled_deepslate
+minecraft:cobbled_deepslate_wall	1	1 minecraft:cobbled_deepslate
+minecraft:cobblestone_slab	2	1 minecraft:cobblestone
+minecraft:cobblestone_stairs	1	1 minecraft:cobblestone
+minecraft:cobblestone_wall	1	1 minecraft:cobblestone
+minecraft:comparator	1	3 minecraft:redstone_torch, 1 minecraft:quartz, 3 minecraft:stone
+minecraft:compass	1	4 minecraft:iron_ingot, 1 minecraft:redstone
+minecraft:composter	1	7 minecraft:oak_slab
+minecraft:conduit	1	8 minecraft:nautilus_shell, 1 minecraft:heart_of_the_sea
+minecraft:cookie	8	2 minecraft:wheat, 1 minecraft:cocoa_beans
+minecraft:copper_block	1	9 minecraft:copper_ingot
+minecraft:crafting_table	1	4 minecraft:oak_planks
+minecraft:creeper_banner_pattern	1	1 minecraft:paper, 1 minecraft:creeper_head
+minecraft:crimson_button	1	1 minecraft:crimson_planks
+minecraft:crimson_door	3	6 minecraft:crimson_planks
+minecraft:crimson_fence	3	4 minecraft:crimson_planks, 2 minecraft:stick
+minecraft:crimson_fence_gate	1	4 minecraft:stick, 2 minecraft:crimson_planks
+minecraft:crimson_hanging_sign	6	2 minecraft:chain, 6 minecraft:stripped_crimson_stem
+minecraft:crimson_hyphae	3	4 minecraft:crimson_stem
+minecraft:crimson_planks	4	1 minecraft:crimson_stem
+minecraft:crimson_pressure_plate	1	2 minecraft:crimson_planks
+minecraft:crimson_sign	3	6 minecraft:crimson_planks, 1 minecraft:stick
+minecraft:crimson_slab	6	3 minecraft:crimson_planks
+minecraft:crimson_stairs	4	6 minecraft:crimson_planks
+minecraft:crimson_trapdoor	2	6 minecraft:crimson_planks
+minecraft:crossbow	1	3 minecraft:stick, 1 minecraft:iron_ingot, 2 minecraft:string, 1 minecraft:tripwire_hook
+minecraft:cut_copper	8	5 minecraft:copper_block
+minecraft:cut_copper_slab	16	4 minecraft:cut_copper, 1 minecraft:copper_block
+minecraft:cut_copper_stairs	9	7 minecraft:cut_copper, 1 minecraft:copper_block
+minecraft:cut_red_sandstone	1	1 minecraft:red_sandstone
+minecraft:cut_red_sandstone_slab	2	1 minecraft:red_sandstone
+minecraft:cut_sandstone	1	1 minecraft:sandstone
+minecraft:cut_sandstone_slab	2	1 minecraft:sandstone
+minecraft:cyan_banner	1	6 minecraft:cyan_wool, 1 minecraft:stick
+minecraft:cyan_bed	1	3 minecraft:cyan_wool, 3 minecraft:oak_planks
+minecraft:cyan_candle	1	1 minecraft:candle, 1 minecraft:cyan_dye
+minecraft:cyan_carpet	3	2 minecraft:cyan_wool
+minecraft:cyan_concrete_powder	8	1 minecraft:cyan_dye, 4 minecraft:sand, 4 minecraft:gravel
+minecraft:cyan_dye	2	1 minecraft:blue_dye, 1 minecraft:green_dye
+minecraft:cyan_stained_glass	8	8 minecraft:glass, 1 minecraft:cyan_dye
+minecraft:cyan_stained_glass_pane	16	6 minecraft:cyan_stained_glass
+minecraft:cyan_terracotta	8	8 minecraft:terracotta, 1 minecraft:cyan_dye
+minecraft:cyan_wool	1	1 minecraft:cyan_dye, 1 minecraft:white_wool
+minecraft:dark_oak_boat	1	5 minecraft:dark_oak_planks
+minecraft:dark_oak_button	1	1 minecraft:dark_oak_planks
+minecraft:dark_oak_chest_boat	1	1 minecraft:chest, 1 minecraft:dark_oak_boat
+minecraft:dark_oak_door	3	6 minecraft:dark_oak_planks
+minecraft:dark_oak_fence	3	4 minecraft:dark_oak_planks, 2 minecraft:stick
+minecraft:dark_oak_fence_gate	1	4 minecraft:stick, 2 minecraft:dark_oak_planks
+minecraft:dark_oak_hanging_sign	6	2 minecraft:chain, 6 minecraft:stripped_dark_oak_log
+minecraft:dark_oak_planks	4	1 minecraft:dark_oak_log
+minecraft:dark_oak_pressure_plate	1	2 minecraft:dark_oak_planks
+minecraft:dark_oak_sign	3	6 minecraft:dark_oak_planks, 1 minecraft:stick
+minecraft:dark_oak_slab	6	3 minecraft:dark_oak_planks
+minecraft:dark_oak_stairs	4	6 minecraft:dark_oak_planks
+minecraft:dark_oak_trapdoor	2	6 minecraft:dark_oak_planks
+minecraft:dark_oak_wood	3	4 minecraft:dark_oak_log
+minecraft:dark_prismarine	1	8 minecraft:prismarine_shard, 1 minecraft:black_dye
+minecraft:dark_prismarine_slab	8	4 minecraft:dark_prismarine
+minecraft:dark_prismarine_stairs	5	7 minecraft:dark_prismarine
+minecraft:daylight_detector	1	3 minecraft:glass, 3 minecraft:quartz, 3 minecraft:oak_slab
+minecraft:deepslate_brick_slab	2	1 minecraft:cobbled_deepslate
+minecraft:deepslate_brick_stairs	1	1 minecraft:polished_deepslate
+minecraft:deepslate_brick_wall	1	1  minecraft:polished_deepslate
+minecraft:deepslate_bricks	1	1 minecraft:cobbled_deepslate
+minecraft:deepslate_tile_slab	2	1 minecraft:cobbled_deepslate
+minecraft:deepslate_tile_stairs	1	1 minecraft:cobbled_deepslate
+minecraft:deepslate_tile_wall	1	1 minecraft:cobbled_deepslate
+minecraft:deepslate_tiles	1	1 minecraft:cobbled_deepslate
+minecraft:detector_rail	6	6 minecraft:iron_ingot, 1 minecraft:stone_pressure_plate, 1 minecraft:redstone
+minecraft:diamond_axe	1	3 minecraft:diamond, 2 minecraft:stick
+minecraft:diamond_block	1	9 minecraft:diamond
+minecraft:diamond_boots	1	4 minecraft:diamond
+minecraft:diamond_chestplate	1	8 minecraft:diamond
+minecraft:diamond_helmet	1	5 minecraft:diamond
+minecraft:diamond_hoe	1	2 minecraft:diamond, 2 minecraft:stick
+minecraft:diamond_leggings	1	7 minecraft:diamond
+minecraft:diamond_pickaxe	1	3 minecraft:diamond, 2 minecraft:stick
+minecraft:diamond_shovel	1	1 minecraft:diamond, 2 minecraft:stick
+minecraft:diamond_sword	1	2 minecraft:diamond, 1 minecraft:stick
+minecraft:diorite_slab	8	4 minecraft:diorite
+minecraft:diorite_stairs	5	7 minecraft:diorite
+minecraft:diorite_wall	7	7 minecraft:diorite
+minecraft:dispenser	1	7 minecraft:cobblestone, 1 minecraft:bow, 1 minecraft:redstone
+minecraft:dried_kelp	11	1 minecraft:dried_kelp_block, 2 minecraft:kelp
+minecraft:dried_kelp_block	1	9 minecraft:dried_kelp
+minecraft:dripstone_block	1	4 minecraft:pointed_dripstone
+minecraft:dropper	1	7 minecraft:cobblestone, 1 minecraft:redstone
+minecraft:emerald_block	1	9 minecraft:emerald
+minecraft:enchanting_table	1	1 minecraft:book, 2 minecraft:diamond, 4 minecraft:obsidian
+minecraft:end_crystal	1	7 minecraft:glass, 1 minecraft:ender_eye, 1 minecraft:ghast_tear
+minecraft:end_rod	4	1 minecraft:blaze_rod, 1 minecraft:popped_chorus_fruit
+minecraft:end_stone_brick_slab	2	1 minecraft:end_stone
+minecraft:end_stone_brick_stairs	1	1 minecraft:end_stone
+minecraft:end_stone_brick_wall	1	1 minecraft:end_stone
+minecraft:end_stone_bricks	1	1 minecraft:end_stone
+minecraft:ender_chest	1	8 minecraft:obsidian, 1 minecraft:ender_eye
+minecraft:ender_eye	1	1 minecraft:ender_pearl, 1 minecraft:blaze_powder
+minecraft:exposed_cut_copper	8	5 minecraft:exposed_copper
+minecraft:exposed_cut_copper_slab	16	4 minecraft:exposed_cut_copper, 1 minecraft:exposed_copper
+minecraft:exposed_cut_copper_stairs	9	7 minecraft:exposed_cut_copper, 1 minecraft:exposed_copper
+minecraft:fermented_spider_eye	1	1 minecraft:spider_eye, 1 minecraft:brown_mushroom, 1 minecraft:sugar
+minecraft:fire_charge	3	1 minecraft:gunpowder, 1 minecraft:blaze_powder, 1 minecraft:coal
+minecraft:firework_rocket	
+minecraft:firework_star	
+minecraft:fishing_rod	1	3 minecraft:stick, 2 minecraft:string
+minecraft:fletching_table	1	2 minecraft:flint, 4 minecraft:oak_planks
+minecraft:flint_and_steel	1	1 minecraft:iron_ingot, 1 minecraft:flint
+minecraft:flower_banner_pattern	1	1 minecraft:paper, 1 minecraft:oxeye_daisy
+minecraft:flower_pot	1	3 minecraft:brick
+minecraft:furnace	1	8 minecraft:cobblestone
+minecraft:furnace_minecart	1	1 minecraft:furnace, 1 minecraft:minecart
+minecraft:glass_bottle	3	3 minecraft:glass
+minecraft:glass_pane	16	6 minecraft:glass
+minecraft:glistering_melon_slice	1	8 minecraft:gold_nugget, 1 minecraft:melon_slice
+minecraft:glow_item_frame	1	1 minecraft:item_frame, 1 minecraft:glow_ink_sac
+minecraft:glowstone	1	4 minecraft:glowstone_dust
+minecraft:gold_block	1	9 minecraft:gold_ingot
+minecraft:gold_nugget	9	1 minecraft:gold_ingot
+minecraft:golden_apple	1	8 minecraft:gold_ingot, 1 minecraft:apple
+minecraft:golden_axe	1	3 minecraft:gold_ingot, 2 minecraft:stick
+minecraft:golden_boots	1	4 minecraft:gold_ingot
+minecraft:golden_carrot	1	8 minecraft:gold_nugget, 1 minecraft:carrot
+minecraft:golden_chestplate	1	8 minecraft:gold_ingot
+minecraft:golden_helmet	1	5 minecraft:gold_ingot
+minecraft:golden_hoe	1	2 minecraft:gold_ingot, 2 minecraft:stick
+minecraft:golden_leggings	1	7 minecraft:gold_ingot
+minecraft:golden_pickaxe	1	3 minecraft:gold_ingot, 2 minecraft:stick
+minecraft:golden_shovel	1	1 minecraft:gold_ingot, 2 minecraft:stick
+minecraft:golden_sword	1	2 minecraft:gold_ingot, 1 minecraft:stick
+minecraft:granite	1	1 minecraft:diorite, 1 minecraft:quartz
+minecraft:granite_slab	8	4 minecraft:granite
+minecraft:granite_stairs	5	7 minecraft:granite
+minecraft:granite_wall	7	7 minecraft:granite
+minecraft:gray_banner	1	6 minecraft:gray_wool, 1 minecraft:stick
+minecraft:gray_bed	1	3 minecraft:gray_wool, 3 minecraft:oak_planks
+minecraft:gray_candle	1	1 minecraft:candle, 1 minecraft:gray_dye
+minecraft:gray_carpet	3	2 minecraft:gray_wool
+minecraft:gray_concrete_powder	8	1 minecraft:gray_dye, 4 minecraft:sand, 4 minecraft:gravel
+minecraft:gray_dye	2	1 minecraft:black_dye, 1 minecraft:white_dye
+minecraft:gray_stained_glass	8	8 minecraft:glass, 1 minecraft:gray_dye
+minecraft:gray_stained_glass_pane	16	6 minecraft:gray_stained_glass
+minecraft:gray_terracotta	8	8 minecraft:terracotta, 1 minecraft:gray_dye
+minecraft:gray_wool	1	1 minecraft:gray_dye, 1 minecraft:white_wool
+minecraft:green_banner	1	6 minecraft:green_wool, 1 minecraft:stick
+minecraft:green_bed	1	3 minecraft:green_wool, 3 minecraft:oak_planks
+minecraft:green_candle	1	1 minecraft:candle, 1 minecraft:green_dye
+minecraft:green_carpet	3	2 minecraft:green_wool
+minecraft:green_concrete_powder	8	1 minecraft:green_dye, 4 minecraft:sand, 4 minecraft:gravel
+minecraft:green_stained_glass	8	8 minecraft:glass, 1 minecaft:green_dye
+minecraft:green_stained_glass_pane	16	6 minecraft:green_stained_glass
+minecraft:green_terracotta	8	8 minecraft:terracotta, 1 minecraft:green_dye
+minecraft:green_wool	1	1 minecraft:green_dye, 1 minecraft:white_wool
+minecraft:grindstone	1	2 minecraft:stick, 1 minecraft:stone_slab, 2 minecraft:oak_planks
+minecraft:hay_block	1	9 minecraft:wheat
+minecraft:heavy_weighted_pressure_plate	1	2 minecraft:iron_ingot
+minecraft:honey_block	1	4 minecraft:honey_bottle
+minecraft:honey_bottle	4	1 minecraft:honey_block, 4 minecraft:glass_bottle
+minecraft:honeycomb_block	1	4 minecraft:honeycomb
+minecraft:hopper	1	5 minecraft:iron_ingot, 1 minecraft:chest
+minecraft:hopper_minecart	1	1 minecraft:hopper, 1 minecraft:minecart
+minecraft:iron_axe	1	3 minecraft:iron_ingot, 2 minecraft:stick
+minecraft:iron_bars	16	6 minecraft:iron_ingot
+minecraft:iron_block	1	9 minecraft:iron_ingot
+minecraft:iron_boots	1	4 minecraft:iron_ingot
+minecraft:iron_chestplate	1	8 minecraft:iron_ingot
+minecraft:iron_door	3	6 minecraft:iron_ingot
+minecraft:iron_helmet	1	5 minecraft:iron_ingot
+minecraft:iron_hoe	1	2 minecraft:iron_ingot, 2 minecraft:stick
+minecraft:iron_leggings	1	7 minecraft:iron_ingot
+minecraft:iron_nugget	9	1 minecraft:iron_ingot
+minecraft:iron_pickaxe	1	3 minecraft:iron_ingot, 2 minecraft:stick
+minecraft:iron_shovel	1	1 minecraft:iron_ingot, 2 minecraft:stick
+minecraft:iron_sword	1	2 minecraft:iron_ingot, 1 minecraft:stick
+minecraft:iron_trapdoor	1	4 minecraft:iron_ingot
+minecraft:item_frame	1	8 minecraft:stick, 1 minecraft:leather
+minecraft:jack_o_lantern	1	1 minecraft:carved_pumpkin, 1 minecraft:torch
+minecraft:jukebox	1	8 minecraft:oak_planks, 1 minecraft:diamond
+minecraft:jungle_boat	1	5 minecraft:jungle_planks
+minecraft:jungle_button	1	1 minecraft:jungle_planks
+minecraft:jungle_chest_boat	1	1 minecraft:chest, 1 minecraft:jungle_boat
+minecraft:jungle_door	3	6 minecraft:jungle_planks
+minecraft:jungle_fence	3	4 minecraft:jungle_planks, 2 minecraft:stick
+minecraft:jungle_fence_gate	1	4 minecraft:stick, 2 minecraft:jungle_planks
+minecraft:jungle_hanging_sign	6	2 minecraft:chain, 6 minecraft:stripped_jungle_log
+minecraft:jungle_planks	4	1 minecraft:jungle_log
+minecraft:jungle_pressure_plate	1	2 minecraft:jungle_planks
+minecraft:jungle_sign	3	6 minecraft:jungle_planks, 1 minecraft:stick
+minecraft:jungle_slab	6	3 minecraft:jungle_planks
+minecraft:jungle_stairs	4	6 minecraft:jungle_planks
+minecraft:jungle_trapdoor	2	6 minecraft:jungle_planks
+minecraft:jungle_wood	3	4 minecraft:jungle_log
+minecraft:ladder	3	7 minecraft:stick
+minecraft:lantern	1	8 minecraft:iron_nugget, 1 minecraft:torch
+minecraft:lapis_block	1	9 minecraft:lapis_lazuli
+minecraft:lead	2	4 minecraft:string, 1 minecraft:slime_ball
+minecraft:leather	1	4 minecraft:rabbit_hide
+minecraft:leather_boots	1	4 minecraft:leather
+minecraft:leather_chestplate	1	8 minecraft:leather
+minecraft:leather_helmet	1	5 minecraft:leather
+minecraft:leather_horse_armor	1	7 minecraft:leather
+minecraft:leather_leggings	1	7 minecraft:leather
+minecraft:lectern	1	4 minecraft:oak_slab, 1 minecraft:bookshelf
+minecraft:lever	1	1 minecraft:stick, 1 minecraft:cobblestone
+minecraft:light_blue_banner	1	6 minecraft:light_blue_wool, 1 minecraft:stick
+minecraft:light_blue_bed	1	3 minecraft:light_blue_wool, 3 minecraft:oak_planks
+minecraft:light_blue_candle	1	1 minecraft:candle, 1 minecraft:light_blue_dye
+minecraft:light_blue_carpet	3	2 minecraft:light_blue_wool
+minecraft:light_blue_concrete_powder	8	1 minecraft:light_blue_dye, 4 minecraft:sand, 4 minecraft:gravel
+minecraft:light_blue_dye	2	1 minecraft:blue_dye, 1 minecraft:white_dye
+minecraft:light_blue_stained_glass	8	8 minecraft:glass, 1 minecraft:light_blue_dye
+minecraft:light_blue_stained_glass_pane	16	6 minecraft:light_blue_stained_glass
+minecraft:light_blue_terracotta	8	8 minecraft:terracotta, 1 minecraft:light_blue_dye
+minecraft:light_blue_wool	1	1 minecraft:light_blue_dye, 1 minecraft:white_wool
+minecraft:light_gray_banner	1	6 minecraft:light_gray_wool, 1 minecraft:stick
+minecraft:light_gray_bed	1	3 minecraft:light_gray_wool, 3 minecraft:oak_planks
+minecraft:light_gray_candle	1	1 minecraft:candle, 1 minecraft:light_gray_dye
+minecraft:light_gray_carpet	3	2 minecraft:light_gray_wool
+minecraft:light_gray_concrete_powder	8	1 minecraft:light_gray_dye, 4 minecraft:sand, 4 minecraft:gravel
+minecraft:light_gray_dye	1	1 minecraft:oxeye_daisy
+minecraft:light_gray_stained_glass	8	8 minecraft:glass, 1 minecraft:light_gray_dye
+minecraft:light_gray_stained_glass_pane	16	6 minecraft:light_gray_stained_glass
+minecraft:light_gray_terracotta	8	8 minecraft:terracotta, 1 minecraft:light_gray_dye
+minecraft:light_gray_wool	1	1 minecraft:light_gray_dye, 1 minecraft:white_wool
+minecraft:light_weighted_pressure_plate	1	2 minecraft:gold_ingot
+minecraft:lightning_rod	1	3 minecraft:copper_ingot
+minecraft:lime_banner	1	6 minecraft:lime_wool, 1 minecraft:stick
+minecraft:lime_bed	1	3 minecraft:lime_wool, 3 minecraft:oak_planks
+minecraft:lime_candle	1	1 minecraft:candle, 1 minecraft:lime_dye
+minecraft:lime_carpet	3	2 minecraft:lime_wool
+minecraft:lime_concrete_powder	8	1 minecraft:lime_dye, 4 minecraft:sand, 4 minecraft:gravel
+minecraft:lime_dye	2	1 minecraft:green_dye, 1 minecraft:white_dye
+minecraft:lime_stained_glass	8	8 minecraft:glass, 1 minecraft:lime_dye
+minecraft:lime_stained_glass_pane	16	6 minecraft:lime_stained_glass
+minecraft:lime_terracotta	8	8 minecraft:terracotta, 1 minecraft:lime_dye
+minecraft:lime_wool	1	1 minecraft:lime_dye, 1 minecraft:white_wool
+minecraft:lodestone	1	8 minecraft:chiseled_stone_bricks, 1 minecraft:netherite_ingot
+minecraft:loom	1	2 minecraft:string, 2 minecraft:oak_planks
+minecraft:magenta_banner	1	6 minecraft:magenta_wool, 1 minecraft:stick
+minecraft:magenta_bed	1	3 minecraft:magenta_wool, 3 minecraft:oak_planks
+minecraft:magenta_candle	1	1 minecraft:candle, 1 minecraft:magenta_dye
+minecraft:magenta_carpet	3	2 minecraft:magenta_wool
+minecraft:magenta_concrete_powder	8	1 minecraft:magenta_dye, 4 minecraft:sand, 4 minecraft:gravel
+minecraft:magenta_dye	1	1 minecraft:lilac
+minecraft:magenta_stained_glass	8	8 minecraft:glass, 1 minecraft:magenta_dye
+minecraft:magenta_stained_glass_pane	16	6 minecraft:magenta_stained_glass
+minecraft:magenta_terracotta	8	8 minecraft:terracotta, 1 minecraft:magenta_dye
+minecraft:magenta_wool	1	1 minecraft:magenta_dye, 1 minecraft:white_wool
+minecraft:magma_block	1	4 minecraft:magma_cream
+minecraft:magma_cream	1	1 minecraft:blaze_powder, 1 minecraft:slime_ball
+minecraft:mangrove_boat	1	5 minecraft:mangrove_planks
+minecraft:mangrove_button	1	1 minecraft:mangrove_planks
+minecraft:mangrove_chest_boat	1	1 minecraft:chest, 1 minecraft:mangrove_boat
+minecraft:mangrove_door	3	6 minecraft:mangrove_planks
+minecraft:mangrove_fence	3	4 minecraft:mangrove_planks, 2 minecraft:stick
+minecraft:mangrove_fence_gate	1	4 minecraft:stick, 2 minecraft:mangrove_planks
+minecraft:mangrove_hanging_sign	6	2 minecraft:chain, 6 minecraft:stripped_mangrove_log
+minecraft:mangrove_planks	4	1 minecraft:mangrove_log
+minecraft:mangrove_pressure_plate	1	2 minecraft:mangrove_planks
+minecraft:mangrove_sign	3	6 minecraft:mangrove_planks, 1 minecraft:stick
+minecraft:mangrove_slab	6	3 minecraft:mangrove_planks
+minecraft:mangrove_stairs	4	6 minecraft:mangrove_planks
+minecraft:mangrove_trapdoor	2	6 minecraft:mangrove_planks
+minecraft:mangrove_wood	3	4 minecraft:mangrove_log
+minecraft:map	1	8 minecraft:paper, 1 minecraft:compass
+minecraft:melon	1	9 minecraft:melon_slice
+minecraft:melon_seeds	1	1 minecraft:melon_slice
+minecraft:minecart	1	5 minecraft:iron_ingot
+minecraft:mojang_banner_pattern	1	1 minecraft:paper, 1 minecraft:enchanted_golden_apple
+minecraft:moss_carpet	3	2 minecraft:moss_block
+minecraft:mossy_cobblestone	1	1 minecraft:cobblestone, 1 minecraft:moss_block
+minecraft:mossy_cobblestone_slab	2	1 minecraft:mossy_cobblestone
+minecraft:mossy_cobblestone_stairs	1	1 minecraft:mossy_cobblestone
+minecraft:mossy_cobblestone_wall	1	1 minecraft:mossy_cobblestone
+minecraft:mossy_stone_brick_slab	2	1 minecraft:mossy_stone_bricks
+minecraft:mossy_stone_brick_stairs	1	1 minecraft:mossy_stone_bricks
+minecraft:mossy_stone_brick_wall	1	1 minecraft:mossy_stone_bricks
+minecraft:mossy_stone_bricks	1	1 minecraft:stone_bricks, 1 minecraft:moss_block
+minecraft:mud_brick_slab	2	1 minecraft:mud_bricks
+minecraft:mud_brick_stairs	1	1 minecraft:mud_bricks
+minecraft:mud_brick_wall	1	1 minecraft:mud_bricks
+minecraft:mud_bricks	4	4 minecraft:packed_mud
+minecraft:muddy_mangrove_roots	1	1 minecraft:mud, 1 minecraft:mangrove_roots
+minecraft:mushroom_stew	1	1 minecraft:brown_mushroom, 1 minecraft:red_mushroom, 1 minecraft:bowl
+minecraft:music_disc_5	1	9 minecraft:disc_fragment_5
+minecraft:nether_brick_fence	6	4 minecraft:nether_bricks, 2 minecraft:nether_brick
+minecraft:nether_brick_slab	2	1 minecraft:nether_bricks
+minecraft:nether_brick_stairs	1	1 minecraft:nether_bricks
+minecraft:nether_brick_wall	1	1 minecraft:nether_bricks
+minecraft:nether_bricks	1	4 minecraft:nether_brick
+minecraft:nether_wart_block	1	9 minecraft:nether_wart
+minecraft:netherite_block	1	9 minecraft:netherite_ingot
+minecraft:netherite_ingot	1	4 minecraft:netherite_scrap, 4 minecraft:gold_ingot
+minecraft:netherite_upgrade_smithing_template	3	7 minecraft:diamond, 1 minecraft:netherrack
+minecraft:note_block	1	8 minecraft:oak_planks, 1 minecraft:redstone
+minecraft:oak_boat	1	5 minecraft:oak_planks
+minecraft:oak_button	1	1 minecraft:oak_planks
+minecraft:oak_chest_boat	1	1 minecraft:chest, 1 minecraft:oak_boat
+minecraft:oak_door	3	6 minecraft:oak_planks
+minecraft:oak_fence	3	4 minecraft:oak_planks, 2 minecraft:stick
+minecraft:oak_fence_gate	1	4 minecraft:stick, 2 minecraft:oak_planks
+minecraft:oak_hanging_sign	6	2 minecraft:chain, 6 minecraft:stripped_oak_log
+minecraft:oak_planks	4	1 minecraft:oak_log
+minecraft:oak_pressure_plate	1	2 minecraft:oak_planks
+minecraft:oak_sign	3	6 minecraft:oak_planks, 1 minecraft:stick
+minecraft:oak_slab	6	3 minecraft:oak_planks
+minecraft:oak_stairs	4	6 minecraft:oak_planks
+minecraft:oak_trapdoor	2	6 minecraft:oak_planks
+minecraft:oak_wood	3	4 minecraft:oak_log
+minecraft:observer	1	6 minecraft:cobblestone, 2 minecraft:redstone, 1 minecraft:quartz
+minecraft:orange_banner	1	6 minecraft:orange_wool, 1 minecraft:stick
+minecraft:orange_bed	1	3 minecraft:orange_wool, 3 minecraft:oak_planks
+minecraft:orange_candle	1	1 minecraft:candle, 1 minecraft:orange_dye
+minecraft:orange_carpet	3	2 minecraft:orange_wool
+minecraft:orange_concrete_powder	8	1 minecraft:orange_dye, 4 minecraft:sand, 4 minecraft:gravel
+minecraft:orange_dye	1	1 minecraft:orange_tulip
+minecraft:orange_stained_glass	8	8 minecraft:glass, 1 minecraft:orange_dye
+minecraft:orange_stained_glass_pane	16	6 minecraft:orange_stained_glass
+minecraft:orange_terracotta	8	8 minecraft:terracotta, 1 minecraft:orange_dye
+minecraft:orange_wool	1	1 minecraft:orange_dye, 1 minecraft:white_wool
+minecraft:oxidized_cut_copper	8	5 minecraft:oxidized_copper
+minecraft:oxidized_cut_copper_slab	16	4 minecraft:oxidized_cut_copper, 1 minecraft:oxidized_copper
+minecraft:oxidized_cut_copper_stairs	9	7 minecraft:oxidized_cut_copper, 1 minecraft:oxidized_copper
+minecraft:packed_ice	1	9 minecraft:ice
+minecraft:packed_mud	1	1 minecraft:mud, 1 minecraft:wheat
+minecraft:painting	1	8 minecraft:stick, 1 minecraft:white_wool
+minecraft:paper	3	3 minecraft:sugar_cane
+minecraft:pink_banner	1	6 minecraft:pink_wool, 1 minecraft:stick
+minecraft:pink_bed	1	3 minecraft:pink_wool, 3 minecraft:oak_planks
+minecraft:pink_candle	1	1 minecraft:candle, 1 minecraft:pink_dye
+minecraft:pink_carpet	3	2 minecraft:pink_wool
+minecraft:pink_concrete_powder	8	1 minecraft:pink_dye, 4 minecraft:sand, 4 minecraft:gravel
+minecraft:pink_dye	1	1 minecraft:pink_petals
+minecraft:pink_stained_glass	8	8 minecraft:glass, 1 minecraft:pink_dye
+minecraft:pink_stained_glass_pane	16	6 minecraft:pink_stained_glass
+minecraft:pink_terracotta	8	8 minecraft:terracotta, 1 minecraft:pink_dye
+minecraft:pink_wool	1	1 minecraft:pink_dye, 1 minecraft:white_wool
+minecraft:piston	1	3 minecraft:oak_planks, 4 minecraft:cobblestone, 1 minecraft:iron_ingot, 1 minecraft:redstone
+minecraft:polished_andesite	5	5 minecraft:andesite
+minecraft:polished_andesite_slab	10	4 minecraft:polished_andesite, 1 minecraft:andesite
+minecraft:polished_andesite_stairs	6	7 minecraft:polished_andesite, 1 minecraft:andesite
+minecraft:polished_basalt	5	5 minecraft:basalt
+minecraft:polished_blackstone	1	1 minecraft:blackstone
+minecraft:polished_blackstone_brick_slab	2	1 minecraft:blackstone
+minecraft:polished_blackstone_brick_stairs	1	1 minecraft:blackstone
+minecraft:polished_blackstone_brick_wall	1	1 minecraft:blackstone
+minecraft:polished_blackstone_bricks	1	1 minecraft:blackstone
+minecraft:polished_blackstone_button	1	1 minecraft:polished_blackstone
+minecraft:polished_blackstone_pressure_plate	1	2 minecraft:polished_blackstone
+minecraft:polished_blackstone_slab	2	1 minecraft:blackstone
+minecraft:polished_blackstone_stairs	1	1 minecraft:blackstone
+minecraft:polished_blackstone_wall	1	1 minecraft:blackstone
+minecraft:polished_deepslate	1	1 minecraft:cobbled_deepslate
+minecraft:polished_deepslate_slab	2	1 minecraft:cobbled_deepslate
+minecraft:polished_deepslate_stairs	1	1 minecraft:cobbled_deepslate
+minecraft:polished_deepslate_wall	1	1 minecraft:cobbled_deepslate
+minecraft:polished_diorite	5	5 minecraft:diorite
+minecraft:polished_diorite_slab	10	4 minecraft:polished_diorite, 1 minecraft:diorite
+minecraft:polished_diorite_stairs	6	7 minecraft:polished_diorite, 1 minecraft:diorite
+minecraft:polished_granite	5	5 minecraft:granite
+minecraft:polished_granite_slab	10	4 minecraft:polished_granite, 1 minecraft:granite
+minecraft:polished_granite_stairs	6	7 minecraft:polished_granite, 1 minecraft:granite
+minecraft:powered_rail	6	6 minecraft:gold_ingot, 1 minecraft:stick, 1 minecraft:redstone
+minecraft:prismarine	1	4 minecraft:prismarine_shard
+minecraft:prismarine_brick_slab	2	1 minecraft:prismarine_bricks
+minecraft:prismarine_brick_stairs	1	1 minecraft:prismarine_bricks
+minecraft:prismarine_bricks	1	9 minecraft:prismarine_shard
+minecraft:prismarine_slab	2	1 minecraft:prismarine
+minecraft:prismarine_stairs	1	1 minecraft:prismarine
+minecraft:prismarine_wall	1	1 minecraft:prismarine
+minecraft:pumpkin_pie	1	1 minecraft:pumpkin, 1 minecraft:sugar, 1 minecraft:egg
+minecraft:purple_banner	1	6 minecraft:purple_wool, 1 minecraft:stick
+minecraft:purple_bed	1	3 minecraft:purple_wool, 3 minecraft:oak_planks
+minecraft:purple_candle	1	1 minecraft:candle, 1 minecraft:purple_dye
+minecraft:purple_carpet	3	2 minecraft:purple_wool
+minecraft:purple_concrete_powder	8	1 minecraft:purple_dye, 4 minecraft:sand, 4 minecraft:gravel
+minecraft:purple_dye	2	1 minecraft:blue_dye, 1 minecraft:red_dye
+minecraft:purple_stained_glass	8	8 minecraft:glass, 1 minecraft:purple_dye
+minecraft:purple_stained_glass_pane	16	6 minecraft:purple_stained_glass
+minecraft:purple_terracotta	8	8 minecraft:terracotta, 1 minecraft:purple_dye
+minecraft:purple_wool	1	1 minecraft:purple_dye, 1 minecraft:white_wool
+minecraft:purpur_block	4	4 minecraft:popped_chorus_fruit
+minecraft:purpur_pillar	2	2 minecraft:purpur_slab, 1 minecraft:purpur_block
+minecraft:purpur_slab	8	4 minecraft:purpur_block, 3 minecraft:purpur_pillar
+minecraft:purpur_stairs	5	7 minecraft:purpur_block, 6 minecraft:purpur_pillar
+minecraft:quartz_block	1	4 minecraft:quartz
+minecraft:quartz_bricks	1	1 minecraft:quartz_block
+minecraft:quartz_pillar	1	1 minecraft:quartz_block
+minecraft:quartz_slab	2	4 minecraft:quartz_block
+minecraft:quartz_stairs	1	1 minecraft:quartz_block
+minecraft:rabbit_stew	1	1 minecraft:baked_potato, 1 minecraft:cooked_rabbit, 1 minecraft:bowl, 1 minecraft:carrot, 1 minecraft:brown_mushroom
+minecraft:rail	16	6 minecraft:iron_ingot, 1 minecraft:stick
+minecraft:raw_copper_block	1	9 minecraft:raw_copper
+minecraft:raw_gold	9	1 minecraft:raw_gold_block
+minecraft:raw_gold_block	1	9 minecraft:raw_gold
+minecraft:raw_iron	9	1 minecraft:raw_iron_block
+minecraft:raw_iron_block	1	9 minecraft:raw_iron
+minecraft:recovery_compass	1	8 minecraft:echo_shard, 1 minecraft:compass
+minecraft:red_banner	1	6 minecraft:red_wool, 1 minecraft:stick
+minecraft:red_bed	1	3 minecraft:red_wool, 3 minecraft:oak_planks
+minecraft:red_candle	1	1 minecraft:candle, 1 minecraft:red_dye
+minecraft:red_carpet	3	2 minecraft:red_wool
+minecraft:red_concrete_powder	8	1 minecraft:red_dye, 4 minecraft:sand, 4 minecraft:gravel
+minecraft:red_dye	1	1 minecraft:poppy
+minecraft:red_nether_brick_slab	2	1 minecraft:red_nether_bricks
+minecraft:red_nether_brick_stairs	1	1 minecraft:red_nether_bricks
+minecraft:red_nether_brick_wall	1	1 minecraft:red_nether_bricks
+minecraft:red_nether_bricks	1	2 minecraft:nether_brick, 2 minecraft:nether_wart
+minecraft:red_sandstone	1	4 minecraft:red_sand
+minecraft:red_sandstone_slab	2	4 minecraft:red_sandstone
+minecraft:red_sandstone_stairs	1	1 minecraft:red_sandstone
+minecraft:red_sandstone_wall	1	1 minecraft:red_sandstone
+minecraft:red_stained_glass	8	8 minecraft:glass, 1 minecraft:red_dye
+minecraft:red_stained_glass_pane	16	6 minecraft:red_stained_glass
+minecraft:red_terracotta	8	8 minecraft:terracotta, 1 minecraft:red_dye
+minecraft:red_wool	1	1 minecraft:red_dye, 1 minecraft:white_wool
+minecraft:redstone_block	1	9 minecraft:redstone
+minecraft:redstone_lamp	1	4 minecraft:redstone, 1 minecraft:glowstone
+minecraft:redstone_torch	1	1 minecraft:redstone, 1 minecraft:stick
+minecraft:repeater	1	2 minecraft:redstone_torch, 1 minecraft:redstone, 3 minecraft:stone
+minecraft:respawn_anchor	1	6 minecraft:crying_obsidian, 3 minecraft:glowstone
+minecraft:sandstone	1	4 minecraft:sand
+minecraft:sandstone_slab	2	1 minecraft:sandstone
+minecraft:sandstone_stairs	1	1 minecraft:sandstone
+minecraft:sandstone_wall	1	1 minecraft:sandstone
+minecraft:scaffolding	6	6 minecraft:bamboo, 1 minecraft:string
+minecraft:sea_lantern	1	4 minecraft:prismarine_shard, 5 minecraft:prismarine_crystals
+minecraft:shears	1	2 minecraft:iron_ingot
+minecraft:shield	1	6 minecraft:oak_planks, 1 minecraft:iron_ingot
+minecraft:shulker_box	1	2 minecraft:shulker_shell, 1 minecraft:chest
+minecraft:skull_banner_pattern	1	1 minecraft:paper, 1 minecraft:wither_skeleton_skull
+minecraft:slime_ball	9	1 minecraft:slime_block
+minecraft:slime_block	1	9 minecraft:slime_ball
+minecraft:smithing_table	1	2 minecraft:iron_ingot, 4 minecraft:oak_planks
+minecraft:smoker	1	4 minecraft:oak_log, 1 minecraft:furnace
+minecraft:smooth_quartz_slab	8	4 minecraft:smooth_quartz
+minecraft:smooth_quartz_stairs	5	7 minecraft:smooth_quartz
+minecraft:smooth_red_sandstone_slab	2	1 minecraft:smooth_red_sandstone
+minecraft:smooth_red_sandstone_stairs	1	1 minecraft:smooth_red_sandstone
+minecraft:smooth_sandstone_slab	2	1 minecraft:smooth_sandstone
+minecraft:smooth_sandstone_stairs	1	2 minecraft:smooth_sandstone
+minecraft:smooth_stone_slab	2	1 minecraft:smooth_stone
+minecraft:snow	6	3 minecraft:snow_block
+minecraft:snow_block	1	4 minecraft:snowball
+minecraft:soul_campfire	1	3 minecraft:stick, 1 minecraft:soul_soil, 3 minecraft:oak_log
+minecraft:soul_lantern	1	8 minecraft:iron_nugget, 1 minecraft:soul_torch
+minecraft:soul_torch	4	1 minecraft:coal, 1 minecraft:stick, 1 minecraft:soul_soil
+minecraft:spectral_arrow	2	4 minecraft:glowstone_dust, 1 minecraft:arrow
+minecraft:spruce_boat	1	5 minecraft:spruce_planks
+minecraft:spruce_button	1	1 minecraft:spruce_planks
+minecraft:spruce_chest_boat	1	1 minecraft:chest, 1 minecraft:spruce_boat
+minecraft:spruce_door	3	6 minecraft:spruce_planks
+minecraft:spruce_fence	3	4 minecraft:spruce_planks, 2 minecraft:stick
+minecraft:spruce_fence_gate	1	4 minecraft:stick, 2 minecraft:spruce_planks
+minecraft:spruce_hanging_sign	6	2 minecraft:chain, 6 minecraft:stripped_spruce_log
+minecraft:spruce_planks	4	1 minecraft:spruce_log
+minecraft:spruce_pressure_plate	1	2 minecraft:spruce_planks
+minecraft:spruce_sign	3	6 minecraft:spruce_planks, 1 minecraft:stick
+minecraft:spruce_slab	6	3 minecraft:spruce_planks
+minecraft:spruce_stairs	4	6 minecraft:spruce_planks
+minecraft:spruce_trapdoor	2	6 minecraft:spruce_planks
+minecraft:spruce_wood	3	4 minecraft:spruce_log
+minecraft:spyglass	1	1 minecraft:amethyst_shard, 2 minecraft:copper_ingot
+minecraft:stick	4	2 minecraft:oak_planks
+minecraft:sticky_piston	1	1 minecraft:slime_ball, 1 minecraft:piston
+minecraft:stone_axe	1	3 minecraft:cobblestone, 2 minecraft:stick
+minecraft:stone_brick_slab	2	1 minecraft:stone
+minecraft:stone_brick_stairs	1	1 minecraft:stone
+minecraft:stone_brick_wall	1	1 minecraft:stone
+minecraft:stone_bricks	1	1 minecraft:stone
+minecraft:stone_button	1	1 minecraft:stone
+minecraft:stone_hoe	1	2 minecraft:cobblestone, 2 minecraft:stick
+minecraft:stone_pickaxe	1	3 minecraft:cobblestone, 2 minecraft:stick
+minecraft:stone_pressure_plate	1	2 minecraft:stone
+minecraft:stone_shovel	1	1 minecraft:cobblestone, 2 minecraft:stick
+minecraft:stone_slab	2	1 minecraft:stone
+minecraft:stone_stairs	1	1 minecraft:stone
+minecraft:stone_sword	1	2 minecraft:cobblestone, 1 minecraft:stick
+minecraft:stonecutter	1	1 minecraft:iron_ingot, 3 minecraft:stone
+minecraft:stripped_acacia_wood	3	4 minecraft:stripped_acacia_log
+minecraft:stripped_birch_wood	3	4 minecraft:stripped_birch_log
+minecraft:stripped_cherry_wood	3	4 minecraft:stripped_cherry_log
+minecraft:stripped_crimson_hyphae	3	4 minecraft:stripped_crimson_stem
+minecraft:stripped_dark_oak_wood	3	4 minecraft:stripped_dark_oak_log
+minecraft:stripped_jungle_wood	3	4 minecraft:stripped_jungle_log
+minecraft:stripped_mangrove_wood	3	4 minecraft:stripped_mangrove_log
+minecraft:stripped_oak_wood	3	4 minecraft:stripped_oak_log
+minecraft:stripped_spruce_wood	3	4 minecraft:stripped_spruce_log
+minecraft:stripped_warped_hyphae	3	4 minecraft:stripped_warped_stem
+minecraft:sugar	4	1 minecraft:honey_bottle, 1 minecraft:sugar_cane
+minecraft:target	1	4 minecraft:redstone, 1 minecraft:hay_block
+minecraft:tinted_glass	2	4 minecraft:amethyst_shard, 1 minecraft:glass
+minecraft:tnt	1	5 minecraft:gunpowder, 4 minecraft:sand, 4 minecraft:red_sand
+minecraft:tnt_minecart	1	1 minecraft:tnt, 1 minecraft:minecart
+minecraft:torch	4	1 minecraft:coal, 1 minecraft:stick
+minecraft:trapped_chest	1	1 minecraft:chest, 1 minecraft:tripwire_hook
+minecraft:tripwire_hook	2	1 minecraft:iron_ingot, 1 minecraft:stick, 1 minecraft:oak_planks
+minecraft:turtle_helmet	1	5 minecraft:turtle_scute
+minecraft:warped_button	1	1 minecraft:warped_planks
+minecraft:warped_door	3	6 minecraft:warped_planks
+minecraft:warped_fence	3	4 minecraft:warped_planks, 2 minecraft:stick
+minecraft:warped_fence_gate	1	4 minecraft:stick, 2 minecraft:warped_planks
+minecraft:warped_fungus_on_a_stick	1	1 minecraft:fishing_rod, 1 minecraft:warped_fungus
+minecraft:warped_hanging_sign	6	2 minecraft:chain, 6 minecraft:stripped_warped_stem
+minecraft:warped_hyphae	3	4 minecraft:warped_stem
+minecraft:warped_planks	4	1 minecraft:warped_stem
+minecraft:warped_pressure_plate	1	2 minecraft:warped_planks
+minecraft:warped_sign	3	6 minecraft:warped_planks, 1 minecraft:stick
+minecraft:warped_slab	6	3 minecraft:warped_planks
+minecraft:warped_stairs	4	6 minecraft:warped_planks
+minecraft:warped_trapdoor	2	6 minecraft:warped_planks
+minecraft:waxed_copper_block	1	1 minecraft:copper_block, 1 minecraft:honeycomb
+minecraft:waxed_cut_copper	4	1 minecraft:waxed_copper_block
+minecraft:waxed_cut_copper_slab	8	1 minecraft:waxed_copper_block
+minecraft:waxed_cut_copper_stairs	4	1 minecraft:waxed_copper_block
+minecraft:waxed_exposed_copper	1	1 minecraft:exposed_copper, 1 minecraft:honeycomb
+minecraft:waxed_exposed_cut_copper	4	1 minecraft:waxed_exposed_copper
+minecraft:waxed_exposed_cut_copper_slab	8	1 minecraft:waxed_exposed_copper
+minecraft:waxed_exposed_cut_copper_stairs	4	1 minecraft:waxed_exposed_copper
+minecraft:waxed_oxidized_copper	1	1 minecraft:oxidized_copper, 1 minecraft:honeycomb
+minecraft:waxed_oxidized_cut_copper	4	1 minecraft:waxed_oxidized_copper
+minecraft:waxed_oxidized_cut_copper_slab	8	1 minecraft:waxed_oxidized_copper
+minecraft:waxed_oxidized_cut_copper_stairs	4	1 minecraft:waxed_oxidized_copper
+minecraft:waxed_weathered_copper	1	1 minecraft:weathered_copper, 1 minecraft:honeycomb
+minecraft:waxed_weathered_cut_copper	4	1 minecraft:waxed_weathered_copper
+minecraft:waxed_weathered_cut_copper_slab	8	1 minecraft:waxed_weathered_copper
+minecraft:waxed_weathered_cut_copper_stairs	4	1 minecraft:waxed_weathered_copper
+minecraft:weathered_cut_copper	4	1 minecraft:weathered_copper
+minecraft:weathered_cut_copper_slab	8	1 minecraft:weathered_copper
+minecraft:weathered_cut_copper_stairs	4	1 minecraft:weathered_copper
+minecraft:wheat	9	1 minecraft:hay_block
+minecraft:white_banner	1	6 minecraft:white_wool, 1 minecraft:stick
+minecraft:white_bed	1	3 minecraft:white_wool, 3 minecraft:oak_planks
+minecraft:white_candle	1	1 minecraft:candle, 1 minecraft:white_dye
+minecraft:white_carpet	3	2 minecraft:white_wool
+minecraft:white_concrete_powder	8	1 minecraft:white_dye, 4 minecraft:sand, 4 minecraft:gravel
+minecraft:white_dye	1	1 minecraft:bone_meal
+minecraft:white_stained_glass	8	8 minecraft:glass, 1 minecraft:white_dye
+minecraft:white_stained_glass_pane	16	6 minecraft:white_stained_glass
+minecraft:white_terracotta	8	8 minecraft:terracotta, 1 minecraft:white_dye
+minecraft:wolf_armor	1	6 minecraft:armadillo_scute
+minecraft:wooden_axe	1	3 minecraft:oak_planks, 2 minecraft:stick
+minecraft:wooden_hoe	1	2 minecraft:oak_planks, 2 minecraft:stick
+minecraft:wooden_pickaxe	1	3 minecraft:oak_planks, 2 minecraft:stick
+minecraft:wooden_shovel	1	1 minecraft:oak_planks, 2 minecraft:stick
+minecraft:wooden_sword	1	2 minecraft:oak_planks, 1 minecraft:stick
+minecraft:writable_book	1	1 minecraft:book, 1 minecraft:ink_sac, 1 minecraft:feather
+minecraft:yellow_banner	1	6 minecraft:yellow_wool, 1 minecraft:stick
+minecraft:yellow_bed	1	3 minecraft:yellow_wool, 3 minecraft:oak_planks
+minecraft:yellow_candle	1	1 minecraft:candle, 1 minecraft:yellow_dye
+minecraft:yellow_carpet	3	2 minecraft:yellow_wool
+minecraft:yellow_concrete_powder	8	1 minecraft:yellow_dye, 4 minecraft:sand, 4 minecraft:gravel
+minecraft:yellow_dye	1	1 minecraft:dandelion
+minecraft:yellow_stained_glass	8	8 minecraft:glass, 1 minecraft:yellow_dye
+minecraft:yellow_stained_glass_pane	16	6 minecraft:yellow_stained_glass
+minecraft:yellow_terracotta	8	8 minecraft:terracotta, 1 minecraft:yellow_dye
+minecraft:yellow_wool	1	1 minecraft:yellow_dye, 1 minecraft:white_wool
+minecraft:copper_ingot	1	1 minecraft:raw_copper
+minecraft:gold_ingot	1	1 minecraft:raw_gold
+minecraft:iron_ingot	1	1 minecraft:raw_iron
+minecraft:stone	1	1 minecraft:cobblestone
+minecraft:nether_brick	1	1 minecraft:netherrack
