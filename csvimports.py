@@ -1,47 +1,49 @@
 # Author: Alyssa Feger
 
-def turn_into_csv():
-    recipe_csvtxt = open("recipe_csv.txt")
-    recipe_tsv = open("recipes.tsv", 'a')
 
-    title = "Craftable\tCount\tRecipe\n"
+def turn_into_csv():
+    '''
+    Function that puts the information in the dictionaries in recipe_csv.txt in csv (not true it's a tsv just cause it's a bit easier to work with in this case)
+    so it can be later used for the extraction of raw materials function
+    '''
+
+    recipe_csvtxt = open("recipe_csv.txt")
+    recipe_tsv = open("recipes.tsv", 'a')  # tsv that all recipe information will be stored in
+
+    title = "Craftable\tCount\tRecipe\n"  # title of tsv
     recipe_tsv.write(title)
-    random_count = 0
-    line_num = 1
+    #line_num = 1
+
 
     for line in recipe_csvtxt:
         index = 0
-        new_string = ''
-        materials_str = ""
+        new_string = ''  # String to be concatenate all recipe informatino
+        materials_str = ""  # String to concatenate all the recipe materials
+
+
+        # Dictionaries in recipe_csv are all strings so they need to be converted into dictionaries again
+
+        new_line = new_line.strip("{}")  # Gets rid of the {} at beginning and end of strings
+        new_line = new_line.replace("'", "")  # Gets rid of unneccessary quotations
+        new_dict = dict(item.split(': ') for item in new_line.split(", "))  # Compiles line into dictionary
         
-        print(line_num)
-        line_length = len(line)
-        new_line = line[1:line_length - 2]
 
 
-        new_line = new_line.strip("{}")
-        new_line = new_line.replace("'", "")
-        print(f"line before: {new_line}")
-        new_dict = dict(item.split(': ') for item in new_line.split(", "))
-        
-        print(type(new_dict), new_dict)
-
-        line_num += 1
-
+        # Now we get to the big guns
         for key in new_dict.keys():
-            if index == 0:
-                craftable_string = f"{key}\t{new_dict[key]}\t"
+            if index == 0:  # First key in new_dict is the craftable item
+                craftable_string = f"{key}\t{new_dict[key]}\t"  # Separates item name and how many can be crafted by tab characters so they are in separate columns
                 index += 1
-                new_string = new_string + craftable_string
+                new_string = new_string + craftable_string  # Adding craftable_string to new_string to concatenate it with rest of materials
 
             else:
                 materials = f"{new_dict[key]} {key}, "
-                new_string = new_string + materials
+                new_string = new_string + materials  # Note: Materials are not separated by tab character because they all must be in same column
 
 
-        new_string = new_string[:-2]
+        new_string = new_string[:-2]  # Getting rid of the ", " at end of new_string 
         new_string = new_string + "\n"
-        recipe_tsv.write(new_string)
+        recipe_tsv.write(new_string)  # Writes all the information into the tsv
 
 
 

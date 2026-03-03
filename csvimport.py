@@ -1,8 +1,10 @@
 # Author: Alyssa Feger
+# Function is no longer necessesary - DO NOT USE
 
-import ast 
 import re
 
+
+# Function that made me hate everything - trying to figure out which dictionaries in the recipe_csv.txt did not have a simplified recipe to work with
 def check_keys(recipes_filename: str):
     recipes_txt = open(recipes_filename)
     random_count = 0
