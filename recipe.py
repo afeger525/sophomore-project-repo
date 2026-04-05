@@ -41,7 +41,7 @@ def raw_materials_helper(materials_dict: dict[str, int], recipe_df): #should pro
                 num_count = material_num / count
 
             
-            if recipe == "NA":
+            if recipe == "0":
                 return materials_dict
             else:
                 recipe_list = recipe.split(",")

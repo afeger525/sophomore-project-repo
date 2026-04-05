@@ -48,3 +48,18 @@ def turn_into_csv():
 
 
     recipe_csvtxt.close()
+
+
+# Adds raw materials to tsv
+def add_raw_materials():
+    recipe_raw = open("raw_materials.txt")
+    recipe_tsv = open("recipes.tsv", 'a')
+
+    for line in recipe_raw:
+        line_split = line.split()
+        line_join = "_".join(line_split)
+        minecraft_data = "minecraft:" + line_join
+
+        recipe = f"{minecraft_data}\t1\t0\n"
+
+        recipe_tsv.write(recipe)
