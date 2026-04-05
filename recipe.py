@@ -1,14 +1,17 @@
 #this is where i'm gonna write these stupid ass functions
+# Prepare for the worst explanations eve
 import pandas as pd
 
-def transform_list(change: list[str]):
-    change_dict = {}
+def transform_list(change: list[str]) -> dict[str, int]:
+    change_dict = {} # Dictionary to return
+    
     for string in change:
-        materails = string.split()
+        materails = string.split()  # splits string into both the number assigned to materials and the material
         num = materails[0]
-        string = materails[1]
+        materials = materails[1:] # If more than one word takes list of rest of words then joins them together with _
+        string = "_".join(materials)
 
-        string = "minecraft:" + string
+        string = "minecraft:" + string.lower()  # Adding minecraft to material name because that's the thingy in the thingy
         change_dict[string] = int(num)
 
     return change_dict
@@ -38,7 +41,7 @@ def raw_materials_helper(materials_dict: dict[str, int], recipe_df): #should pro
             if material_num % count != 0:
                 num_count = (material_num // count) + 1
             else:
-                num_count = material_num / count
+                num_count = material_num // count
 
             
             if recipe == "0":
@@ -49,7 +52,9 @@ def raw_materials_helper(materials_dict: dict[str, int], recipe_df): #should pro
                     thing_split = thing.split()
                     mat_count = int(thing_split[0]) * num_count
                     thing_dict[thing] = mat_count
+                    print(thing_dict)
 
+                """
                 raw_dict = raw_materials_helper(thing_dict, recipe_df)
 
                 for raw in raw_dict.keys():
@@ -58,7 +63,7 @@ def raw_materials_helper(materials_dict: dict[str, int], recipe_df): #should pro
                     else:
                         mat_dict[raw] = raw_dict[raw]
                     
-
+"""
             
             
         
