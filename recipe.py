@@ -1,6 +1,5 @@
 #this is where i'm gonna write these stupid ass functions
 # Prepare for the worst explanations eve
-import pandas as pd
 
 def transform_list(change: list[str]) -> dict[str, int]:
     change_dict = {} # Dictionary to return
@@ -17,12 +16,13 @@ def transform_list(change: list[str]) -> dict[str, int]:
     return change_dict
 
 
-
+"""
 def raw_materials(materials_list: list[str]):
     materials = transform_list(materials_list)
     recipe_df = pd.read_tsv("recipes.tsv")
     return raw_materials_helper(materials, recipe_df)
 
+    
 
 def raw_materials_helper(materials_dict: dict[str, int], recipe_df): #should probably add another parameter
     mat_dict: dict[str, int] = {}
@@ -54,7 +54,7 @@ def raw_materials_helper(materials_dict: dict[str, int], recipe_df): #should pro
                     thing_dict[thing] = mat_count
                     print(thing_dict)
 
-                """
+
                 raw_dict = raw_materials_helper(thing_dict, recipe_df)
 
                 for raw in raw_dict.keys():
@@ -66,4 +66,3 @@ def raw_materials_helper(materials_dict: dict[str, int], recipe_df): #should pro
 """
             
             
-        

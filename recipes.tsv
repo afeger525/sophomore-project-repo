@@ -704,7 +704,7 @@ minecraft:copper_ingot	1	1 minecraft:raw_copper
 minecraft:gold_ingot	1	1 minecraft:raw_gold
 minecraft:iron_ingot	1	1 minecraft:raw_iron
 minecraft:stone	1	1 minecraft:cobblestone
-minecraft:nether_brick	1	1 minecraft:netherrackminecraft:raw_copper	1	0
+minecraft:nether_brick	1	1 minecraft:netherrackminecraft:raw_copper
 minecraft:raw_gold	1	0
 minecraft:raw_iron	1	0
 minecraft:diamond	1	0
