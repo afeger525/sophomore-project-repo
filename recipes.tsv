@@ -739,7 +739,7 @@ minecraft:raw_cod	1	0
 minecraft:leather	1	0
 minecraft:raw_beef	1	0
 minecraft:glow_ink_sac	1	0
-minecraft:inc_sac	1	0
+minecraft:ink_sac	1	0
 minecraft:raw_porkchop	1	0
 minecraft:pufferfish	1	0
 minecraft:spider_eye	1	0
@@ -762,7 +762,6 @@ minecraft:beetroot_seeds	1	0
 minecraft:carrot	1	0
 minecraft:glow_berries	1	0
 minecraft:chorus_fruits	1	0
-minecraft:coacoa_beans	1	0
 minecraft:potatoes	1	0
 minecraft:red_mushroom	1	0
 minecraft:brown_mushroom	1	0
@@ -779,3 +778,27 @@ minecraft:gravel	1	0
 minecraft:flint	1	0
 minecraft:glowstone_dust	1	0
 minecraft:netherrack	1	0
+minecraft:white_wool	1	0
+minecraft:orange_tulip	1	0
+minecraft:lilac	1	0
+minecraft:dandelion	1	0
+minecraft:green_dye	1	0
+minecraft:oxeye_daisy	1	0
+minecraft:poppy	1	0
+minecraft:cocoa_beans	1	0
+minecraft:white_concrete	1	1 minecraft:white_concrete_powder
+minecraft:orange_concrete	1	1 minecraft:orange_concrete_powder
+minecraft:magenta_concrete	1	1 minecraft:magenta_concrete_powder
+minecraft:light_blue_concrete	1	1 minecraft:light_blue_concrete_powder
+minecraft:yellow_concrete	1	1 minecraft:yellow_concrete_powder
+minecraft:lime_concrete	1	1 minecraft:lime_concrete_powder
+minecraft:pink_concrete	1	1 minecraft:pink_concrete_powder
+minecraft:gray_concrete	1	1 minecraft:gray_concrete_powder
+minecraft:light_gray_concrete	1	1 minecraft:light_gray_concrete_powder
+minecraft:cyan_concrete	1	1 minecraft:cyan_concrete_powder
+minecraft:purple_concrete	1	1 minecraft:purple_concrete_powder
+minecraft:blue_concrete	1	1 minecraft:blue_concrete_powder
+minecraft:brown_concrete	1	1 minecraft:brown_concrete_powder
+minecraft:green_concrete	1	1 minecraft:green_concrete_powder
+minecraft:red_concrete	1	1 minecraft:red_concrete_powder
+minecraft:black_concrete	1	1 minecraft:black_concrete_powder
