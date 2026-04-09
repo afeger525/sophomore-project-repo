@@ -2,8 +2,6 @@
 from recipe_extraction import extraction
 from csvimport import check_keys
 from csvimports import turn_into_csv, add_raw_materials, add_concrete
-import re
-
 
 def main():
     #extraction()
@@ -11,9 +9,8 @@ def main():
     #turn_into_csv()
     #add_raw_materials()
     #raw_materials(["4 cartography table"])
-    x =  0
     #print(type(x), x)
-    add_concrete()
+    #add_concrete()
 
 
 

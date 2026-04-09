@@ -1,0 +1,75 @@
+raw copper
+raw gold
+raw iron
+diamond
+emerald
+lapis_lazuli
+andesite
+cobblestone
+coal
+redstone
+diorite
+pumpkin_seeds
+wheat seeds
+melon seeds
+oak log
+spruce log
+birch log
+jungle log
+acacia log
+dark oak log
+mangrove log
+cherry log
+pale oak log
+bamboo
+crimson stem
+warped stem
+sugar cane
+cactus
+string
+feather
+raw chicken
+raw cod
+leather
+raw beef
+glow ink sac
+inc sac
+raw porkchop
+pufferfish
+spider eye
+ender pearl
+rotten flesh
+blaze rod
+gunpowder
+prismarine shard
+sponge
+ghast tear
+magma cream
+phantom membrane
+shulker shell
+bone
+slimeball
+nether star
+dirt
+snowball
+beetroot seeds
+carrot
+glow berries
+chorus fruits
+coacoa beans
+potatoes
+red mushroom
+brown mushroom
+pink petals
+sea pickles
+sweet berries
+vines
+moss block
+weeping vines
+wheat
+sand
+clay ball
+gravel
+flint
+glowstone dust
+netherrack

@@ -1,5 +1,7 @@
 # Author: Alyssa Feger
 # Writing 
+# Function is no longer necessesary - DO NOT USE
+
 
 import re
 
@@ -15,7 +17,7 @@ def extraction():
 
     for line in recipes_list:
         crafting = re.search(recipe_regex, line)  # Returns None if line does not have crafting in it, returns match object if it does
-        if crafting != None:
+        if crafting is not None:
             recipes_dict = extraction_helper(recipes_list, {}, line_index)  # Actually creating dictionaries
             recipes_csv.write(f"'{recipes_dict}'\n")
 
