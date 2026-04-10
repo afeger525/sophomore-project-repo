@@ -1,3 +1,5 @@
+Code taken from JSON script in game
+This set was put together by Liam Larson, who posted it on kaggle.com
 {
   "acacia_boat": {
     "is_block": false,
