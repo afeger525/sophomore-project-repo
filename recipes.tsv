@@ -31,7 +31,7 @@ minecraft:bamboo_hanging_sign	6	2 minecraft:chain, 6 minecraft:stripped_bamboo_b
 minecraft:bamboo_mosaic	1	2 minecraft:bamboo_slab
 minecraft:bamboo_mosaic_slab	6	3 minecraft:bamboo_mosaic
 minecraft:bamboo_mosaic_stairs	4	6 minecraft:bamboo_mosaic
-minecraft:bamboo_planks	2	1 minecraft:bamboo_block, 1 minecraft:stripped_bamboo_block
+minecraft:bamboo_planks	2	1 minecraft:bamboo_block
 minecraft:bamboo_pressure_plate	1	2 minecraft:bamboo_planks
 minecraft:bamboo_raft	1	5 minecraft:bamboo_planks
 minecraft:bamboo_sign	3	6 minecraft:bamboo_planks, 1 minecraft:stick
@@ -536,9 +536,7 @@ minecraft:quartz_stairs	1	1 minecraft:quartz_block
 minecraft:rabbit_stew	1	1 minecraft:baked_potato, 1 minecraft:cooked_rabbit, 1 minecraft:bowl, 1 minecraft:carrot, 1 minecraft:brown_mushroom
 minecraft:rail	16	6 minecraft:iron_ingot, 1 minecraft:stick
 minecraft:raw_copper_block	1	9 minecraft:raw_copper
-minecraft:raw_gold	9	1 minecraft:raw_gold_block
 minecraft:raw_gold_block	1	9 minecraft:raw_gold
-minecraft:raw_iron	9	1 minecraft:raw_iron_block
 minecraft:raw_iron_block	1	9 minecraft:raw_iron
 minecraft:recovery_compass	1	8 minecraft:echo_shard, 1 minecraft:compass
 minecraft:red_banner	1	6 minecraft:red_wool, 1 minecraft:stick
